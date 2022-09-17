@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [HRM test Suite]" guice-stage="DEVELOPMENT" verbose="2">
+  <test thread-count="5" name="Pending Leave Rrequest(failed)" verbose="2">
+    <classes>
+      <class name="com.lao.testcases.Test_Pending_Leave_Request">
+        <methods>
+          <include name="launchBrowser"/>
+          <include name="login"/>
+          <include name="verifypendingLeaveRequest"/>
+          <include name="browserClose"/>
+        </methods>
+      </class> <!-- com.lao.testcases.Test_Pending_Leave_Request -->
+    </classes>
+  </test> <!-- Pending Leave Rrequest(failed) -->
+  <test thread-count="5" name="Check user Role(failed)" verbose="2">
+    <classes>
+      <class name="com.lao.testcases.Test_User_Role">
+        <methods>
+          <include name="launchBrowser"/>
+          <include name="CheckUserRole"/>
+          <include name="browserClose"/>
+          <include name="searchClick"/>
+        </methods>
+      </class> <!-- com.lao.testcases.Test_User_Role -->
+    </classes>
+  </test> <!-- Check user Role(failed) -->
+</suite> <!-- Failed suite [HRM test Suite] -->

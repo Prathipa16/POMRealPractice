@@ -1,0 +1,115 @@
+2022-09-14 21:35:59,801 [INFO ] com.lao.commonfunctions.CommonFunctions [main] Loading Prop file
+2022-09-14 21:35:59,804 [INFO ] com.lao.commonfunctions.CommonFunctions [main] Initializing Prop file
+2022-09-14 21:35:59,805 [INFO ] com.lao.commonfunctions.CommonFunctions [main] Launching chrome Browser
+2022-09-14 21:36:04,075 [INFO ] com.lao.commonfunctions.CommonFunctions [main] Loading URL
+2022-09-14 21:37:51,695 [INFO ] com.lao.commonfunctions.CommonFunctions [main] Loading Prop file
+2022-09-14 21:37:51,698 [INFO ] com.lao.commonfunctions.CommonFunctions [main] Initializing Prop file
+2022-09-14 21:37:51,699 [INFO ] com.lao.commonfunctions.CommonFunctions [main] Launching chrome Browser
+2022-09-14 21:37:54,786 [INFO ] com.lao.commonfunctions.CommonFunctions [main] Loading URL
+2022-09-14 21:40:24,765 [INFO ] com.lao.commonfunctions.CommonFunctions [main] Loading Prop file
+2022-09-14 21:40:24,770 [INFO ] com.lao.commonfunctions.CommonFunctions [main] Initializing Prop file
+2022-09-14 21:40:24,770 [INFO ] com.lao.commonfunctions.CommonFunctions [main] Launching chrome Browser
+2022-09-14 21:40:27,671 [INFO ] com.lao.commonfunctions.CommonFunctions [main] Loading URL
+2022-09-14 21:41:07,448 [INFO ] com.lao.testcases.Test_Pending_Leave_Request [main] Entered username
+2022-09-14 21:41:09,554 [INFO ] com.lao.testcases.Test_Pending_Leave_Request [main] Entered Password
+2022-09-14 21:41:11,682 [INFO ] com.lao.testcases.Test_Pending_Leave_Request [main] Click Login
+2022-09-14 21:41:11,683 [INFO ] com.lao.testcases.Test_Pending_Leave_Request [main] Calling Login method
+2022-09-14 21:41:17,848 [INFO ] com.lao.testcases.Test_Pending_Leave_Request [main] Click DashBoard
+2022-09-14 21:41:17,885 [INFO ] com.lao.testcases.Test_Pending_Leave_Request [main] Assert passed
+2022-09-14 21:41:36,096 [INFO ] com.lao.testcases.Test_User_Role [main] clicks admin
+2022-09-14 21:41:38,151 [INFO ] com.lao.testcases.Test_User_Role [main] clicks usermanagement
+2022-09-14 21:41:39,062 [INFO ] com.lao.testcases.Test_User_Role [main] clicks .user
+2022-09-14 21:41:43,241 [INFO ] com.lao.testcases.Test_User_Role [main] Selected Admin
+2022-09-14 21:41:47,377 [INFO ] com.lao.testcases.Test_User_Role [main] Selected Enabled
+2022-09-14 21:42:12,307 [INFO ] com.lao.testcases.Test_User_Role [main] clicks admin
+2022-09-14 21:42:14,418 [INFO ] com.lao.testcases.Test_User_Role [main] clicks usermanagement
+2022-09-14 21:42:16,782 [INFO ] com.lao.testcases.Test_User_Role [main] clicks .user
+2022-09-14 21:42:23,922 [INFO ] com.lao.testcases.Test_User_Role [main] Selected Enabled
+2022-09-14 21:42:28,016 [INFO ] com.lao.testcases.Test_User_Role [main] Selected Admin
+2022-09-14 21:44:31,486 [INFO ] com.lao.commonfunctions.CommonFunctions [main] Loading Prop file
+2022-09-14 21:44:31,493 [INFO ] com.lao.commonfunctions.CommonFunctions [main] Initializing Prop file
+2022-09-14 21:44:31,494 [INFO ] com.lao.commonfunctions.CommonFunctions [main] Launching chrome Browser
+2022-09-14 21:44:34,394 [INFO ] com.lao.commonfunctions.CommonFunctions [main] Loading URL
+2022-09-14 21:44:54,524 [INFO ] com.lao.testcases.Test_Pending_Leave_Request [main] Entered username
+2022-09-14 21:44:56,620 [INFO ] com.lao.testcases.Test_Pending_Leave_Request [main] Entered Password
+2022-09-14 21:44:58,717 [INFO ] com.lao.testcases.Test_Pending_Leave_Request [main] Click Login
+2022-09-14 21:44:58,717 [INFO ] com.lao.testcases.Test_Pending_Leave_Request [main] Calling Login method
+2022-09-14 21:45:03,356 [INFO ] com.lao.testcases.Test_Pending_Leave_Request [main] Click DashBoard
+2022-09-14 21:45:03,392 [INFO ] com.lao.testcases.Test_Pending_Leave_Request [main] Assert passed
+2022-09-14 21:45:21,110 [INFO ] com.lao.testcases.Test_User_Role [main] clicks admin
+2022-09-14 21:45:23,210 [INFO ] com.lao.testcases.Test_User_Role [main] clicks usermanagement
+2022-09-14 21:45:23,871 [INFO ] com.lao.testcases.Test_User_Role [main] clicks .user
+2022-09-14 21:45:28,059 [INFO ] com.lao.testcases.Test_User_Role [main] Selected Admin
+2022-09-14 21:45:32,131 [INFO ] com.lao.testcases.Test_User_Role [main] Selected Enabled
+2022-09-14 21:45:47,138 [INFO ] com.lao.testcases.Test_User_Role [main] clicks admin
+2022-09-14 21:45:49,237 [INFO ] com.lao.testcases.Test_User_Role [main] clicks usermanagement
+2022-09-14 21:45:50,061 [INFO ] com.lao.testcases.Test_User_Role [main] clicks .user
+2022-09-14 21:45:57,172 [INFO ] com.lao.testcases.Test_User_Role [main] Selected Enabled
+2022-09-14 21:46:01,270 [INFO ] com.lao.testcases.Test_User_Role [main] Selected Admin
+2022-09-14 21:48:18,413 [INFO ] com.lao.commonfunctions.CommonFunctions [main] Loading Prop file
+2022-09-14 21:48:18,418 [INFO ] com.lao.commonfunctions.CommonFunctions [main] Initializing Prop file
+2022-09-14 21:48:18,418 [INFO ] com.lao.commonfunctions.CommonFunctions [main] Launching chrome Browser
+2022-09-14 21:48:21,214 [INFO ] com.lao.commonfunctions.CommonFunctions [main] Loading URL
+2022-09-14 21:48:41,648 [INFO ] com.lao.testcases.Test_Pending_Leave_Request [main] Entered username
+2022-09-14 21:48:43,750 [INFO ] com.lao.testcases.Test_Pending_Leave_Request [main] Entered Password
+2022-09-14 21:48:45,866 [INFO ] com.lao.testcases.Test_Pending_Leave_Request [main] Click Login
+2022-09-14 21:48:45,867 [INFO ] com.lao.testcases.Test_Pending_Leave_Request [main] Calling Login method
+2022-09-14 21:48:55,779 [INFO ] com.lao.testcases.Test_Pending_Leave_Request [main] Click DashBoard
+2022-09-14 21:48:55,813 [INFO ] com.lao.testcases.Test_Pending_Leave_Request [main] Assert passed
+2022-09-14 21:49:05,005 [INFO ] com.lao.commonfunctions.CommonFunctions [main] Report Generated
+2022-09-14 21:49:30,827 [INFO ] com.lao.testcases.Test_User_Role [main] clicks admin
+2022-09-14 21:49:32,940 [INFO ] com.lao.testcases.Test_User_Role [main] clicks usermanagement
+2022-09-14 21:49:38,216 [INFO ] com.lao.testcases.Test_User_Role [main] clicks .user
+2022-09-14 21:49:42,824 [INFO ] com.lao.testcases.Test_User_Role [main] Selected Admin
+2022-09-14 21:49:46,927 [INFO ] com.lao.testcases.Test_User_Role [main] Selected Enabled
+2022-09-14 21:50:03,037 [INFO ] com.lao.testcases.Test_User_Role [main] clicks admin
+2022-09-14 21:50:05,095 [INFO ] com.lao.testcases.Test_User_Role [main] clicks usermanagement
+2022-09-14 21:50:08,521 [INFO ] com.lao.testcases.Test_User_Role [main] clicks .user
+2022-09-14 21:50:15,614 [INFO ] com.lao.testcases.Test_User_Role [main] Selected Enabled
+2022-09-14 21:50:19,703 [INFO ] com.lao.testcases.Test_User_Role [main] Selected Admin
+2022-09-14 21:50:20,350 [INFO ] com.lao.commonfunctions.CommonFunctions [main] Report Generated
+2022-09-14 21:50:23,388 [INFO ] com.lao.commonfunctions.CommonFunctions [main] Closing Browser
+2022-09-14 21:53:23,374 [INFO ] com.lao.commonfunctions.CommonFunctions [main] Loading Prop file
+2022-09-14 21:53:23,380 [INFO ] com.lao.commonfunctions.CommonFunctions [main] Initializing Prop file
+2022-09-14 21:53:23,381 [INFO ] com.lao.commonfunctions.CommonFunctions [main] Launching chrome Browser
+2022-09-14 21:53:26,278 [INFO ] com.lao.commonfunctions.CommonFunctions [main] Loading URL
+2022-09-14 21:53:56,028 [INFO ] com.lao.testcases.Test_Pending_Leave_Request [main] Entered username
+2022-09-14 21:53:58,164 [INFO ] com.lao.testcases.Test_Pending_Leave_Request [main] Entered Password
+2022-09-14 21:54:00,280 [INFO ] com.lao.testcases.Test_Pending_Leave_Request [main] Click Login
+2022-09-14 21:54:00,283 [INFO ] com.lao.testcases.Test_Pending_Leave_Request [main] Calling Login method
+2022-09-14 21:54:05,210 [INFO ] com.lao.testcases.Test_Pending_Leave_Request [main] Click DashBoard
+2022-09-14 21:54:05,252 [INFO ] com.lao.testcases.Test_Pending_Leave_Request [main] Assert passed
+2022-09-14 21:54:23,249 [INFO ] com.lao.testcases.Test_User_Role [main] clicks admin
+2022-09-14 21:54:25,354 [INFO ] com.lao.testcases.Test_User_Role [main] clicks usermanagement
+2022-09-14 21:54:26,415 [INFO ] com.lao.testcases.Test_User_Role [main] clicks .user
+2022-09-14 21:54:30,657 [INFO ] com.lao.testcases.Test_User_Role [main] Selected Admin
+2022-09-14 21:54:34,791 [INFO ] com.lao.testcases.Test_User_Role [main] Selected Enabled
+2022-09-14 21:54:47,172 [INFO ] com.lao.testcases.Test_User_Role [main] clicks admin
+2022-09-14 21:54:49,256 [INFO ] com.lao.testcases.Test_User_Role [main] clicks usermanagement
+2022-09-14 21:54:50,906 [INFO ] com.lao.testcases.Test_User_Role [main] clicks .user
+2022-09-14 21:54:58,038 [INFO ] com.lao.testcases.Test_User_Role [main] Selected Enabled
+2022-09-14 21:55:02,172 [INFO ] com.lao.testcases.Test_User_Role [main] Selected Admin
+2022-09-14 21:55:05,236 [INFO ] com.lao.commonfunctions.CommonFunctions [main] Closing Browser
+2022-09-14 21:55:06,805 [INFO ] com.lao.commonfunctions.CommonFunctions [main] Report Generated
+2022-09-17 21:20:34,257 [INFO ] com.lao.commonfunctions.CommonFunctions [main] Loading Prop file
+2022-09-17 21:20:34,263 [INFO ] com.lao.commonfunctions.CommonFunctions [main] Initializing Prop file
+2022-09-17 21:20:34,263 [INFO ] com.lao.commonfunctions.CommonFunctions [main] Launching chrome Browser
+2022-09-17 21:20:41,842 [INFO ] com.lao.commonfunctions.CommonFunctions [main] Loading URL
+2022-09-17 21:21:03,437 [INFO ] com.lao.testcases.Test_Pending_Leave_Request [main] Entered username
+2022-09-17 21:21:05,572 [INFO ] com.lao.testcases.Test_Pending_Leave_Request [main] Entered Password
+2022-09-17 21:21:07,781 [INFO ] com.lao.testcases.Test_Pending_Leave_Request [main] Click Login
+2022-09-17 21:21:07,782 [INFO ] com.lao.testcases.Test_Pending_Leave_Request [main] Calling Login method
+2022-09-17 21:21:16,792 [INFO ] com.lao.testcases.Test_Pending_Leave_Request [main] Click DashBoard
+2022-09-17 21:21:16,897 [INFO ] com.lao.testcases.Test_Pending_Leave_Request [main] Assert passed
+2022-09-17 21:21:34,466 [INFO ] com.lao.testcases.Test_User_Role [main] clicks admin
+2022-09-17 21:21:36,620 [INFO ] com.lao.testcases.Test_User_Role [main] clicks usermanagement
+2022-09-17 21:21:39,222 [INFO ] com.lao.testcases.Test_User_Role [main] clicks .user
+2022-09-17 21:21:43,574 [INFO ] com.lao.testcases.Test_User_Role [main] Selected Admin
+2022-09-17 21:21:47,683 [INFO ] com.lao.testcases.Test_User_Role [main] Selected Enabled
+2022-09-17 21:22:05,661 [INFO ] com.lao.testcases.Test_User_Role [main] clicks admin
+2022-09-17 21:22:07,743 [INFO ] com.lao.testcases.Test_User_Role [main] clicks usermanagement
+2022-09-17 21:22:10,380 [INFO ] com.lao.testcases.Test_User_Role [main] clicks .user
+2022-09-17 21:22:17,538 [INFO ] com.lao.testcases.Test_User_Role [main] Selected Enabled
+2022-09-17 21:22:21,626 [INFO ] com.lao.testcases.Test_User_Role [main] Selected Admin
+2022-09-17 21:22:24,677 [INFO ] com.lao.commonfunctions.CommonFunctions [main] Closing Browser
+2022-09-17 21:22:26,317 [INFO ] com.lao.commonfunctions.CommonFunctions [main] Report Generated
